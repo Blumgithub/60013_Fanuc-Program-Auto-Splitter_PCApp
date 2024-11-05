@@ -1,3 +1,24 @@
+# Blum Version 0.9
+
+## 11/05/2024 BB
+- Initial release of Blum Version
+- Added Batch file for configuring target path and file
+- Updated .csproj file for configuring output directory
+
+## Procedure
+Note: Fanuc program backup file can be any name, but contents must be in the standard Fanuc program format.
+
+1. Run "FANUC_Program_Auto_Splitter.bat"
+
+2. When Prompted enter the complete path of where the Fanuc program backup is located and press enter
+    ### Example: C:\Robodrill\Backup
+
+3. When Prompted enter the the filename of the Fanuc program backup excluding the extension and pressing enter
+    ### Example: ALL-FLDR
+
+4. If sucessfully completed a folder will be created at the path specified containing each of the programs from the Fanuc backup
+
+***************Original Description***************************
 # Split-FANUC-Program-Backup
 
 When you run a backup of a FANUC CNC control it makes a file named `ALL-PROG.TXT` that contains all CNC programs in the control memory. 
