@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>split-96.ico</ApplicationIcon>
+    <StartupObject>Choose_FilePath_Form.Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="split-96.ico" />
+  </ItemGroup>
+
+	<ItemGroup>
+	  <None Update="Split-FANUC-Program-Backup.exe">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </None>
+	</ItemGroup>
+
+	<Target Name="CopyFiles" AfterTargets="Build">
+		<Copy SourceFiles="..\Split-FANUC-Program-Backup.exe" DestinationFolder="$(OutDir)\appl" />		
+	</Target>
+	
+</Project>
