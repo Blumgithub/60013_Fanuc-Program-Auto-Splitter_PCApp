@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "Split-FANUC-Program-Backup": {
-      "commandName": "Project",
-      "commandLineArgs": "ALL-FLDR.TXT"
-    }
-  }
-}
