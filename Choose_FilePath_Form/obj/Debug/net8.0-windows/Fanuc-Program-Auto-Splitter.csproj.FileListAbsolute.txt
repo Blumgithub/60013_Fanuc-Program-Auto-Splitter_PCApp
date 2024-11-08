@@ -31,3 +31,4 @@ C:\Users\b.blunk\OneDrive - Blum LMT\GitHub Repositories (Blum)\60013_Fanuc-Prog
 C:\Users\b.blunk\OneDrive - Blum LMT\GitHub Repositories (Blum)\60013_Fanuc-Program-Auto-Splitter_PCApp\Choose_FilePath_Form\obj\Debug\net8.0-windows\Fanuc-Program-Auto-Splitter.pdb
 C:\Users\b.blunk\OneDrive - Blum LMT\GitHub Repositories (Blum)\60013_Fanuc-Program-Auto-Splitter_PCApp\Choose_FilePath_Form\obj\Debug\net8.0-windows\Fanuc-Program-Auto-Splitter.genruntimeconfig.cache
 C:\Users\b.blunk\OneDrive - Blum LMT\GitHub Repositories (Blum)\60013_Fanuc-Program-Auto-Splitter_PCApp\Choose_FilePath_Form\obj\Debug\net8.0-windows\ref\Fanuc-Program-Auto-Splitter.dll
+C:\Users\b.blunk\OneDrive - Blum LMT\GitHub Repositories (Blum)\60013_Fanuc-Program-Auto-Splitter_PCApp\Choose_FilePath_Form\bin\Debug\net8.0-windows\README.md
