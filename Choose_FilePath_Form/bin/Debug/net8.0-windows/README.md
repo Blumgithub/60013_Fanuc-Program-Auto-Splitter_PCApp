@@ -1,3 +1,10 @@
+# Blum Version 1.0
+
+## 11/12/2024 BB
+- BAT file replaced with Windows Program
+- Target TEXT file can have any name, but must be a .txt file and in Fanuc program format
+- Start by double clicking on "Fanuc-Program-Auto-Splitter.exe"
+
 # Blum Version 0.9
 
 ## 11/05/2024 BB
@@ -18,7 +25,7 @@ Note: Fanuc program backup file can be any name, but contents must be in the sta
 
 4. If sucessfully completed a folder will be created at the path specified containing each of the programs from the Fanuc backup
 
-***************Original Description***************************
+;***************Original Description***************************
 # Split-FANUC-Program-Backup
 
 When you run a backup of a FANUC CNC control it makes a file named `ALL-PROG.TXT` that contains all CNC programs in the control memory. 

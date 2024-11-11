@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fanuc-Program-Auto-Splitter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+892d6fb119436ea65646ab6c2969112128742968")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+002136ca749df69b202344db9893f3b64319a26b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fanuc-Program-Auto-Splitter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fanuc-Program-Auto-Splitter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
