@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\b.blunk\\OneDrive - Blum LMT\\GitHub Repositories (Blum)\\60013_Fanuc-Program-Auto-Splitter_PCApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F479D41-1969-4DFA-BFB3-EB18B6D51102}|Choose_FilePath_Form\\Fanuc-Program-Auto-Splitter.csproj|c:\\users\\b.blunk\\onedrive - blum lmt\\github repositories (blum)\\60013_fanuc-program-auto-splitter_pcapp\\choose_filepath_form\\fanuc-program-auto-splitter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0F479D41-1969-4DFA-BFB3-EB18B6D51102}|Choose_FilePath_Form\\Fanuc-Program-Auto-Splitter.csproj|solutionrelative:choose_filepath_form\\fanuc-program-auto-splitter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0F479D41-1969-4DFA-BFB3-EB18B6D51102}|Choose_FilePath_Form\\Fanuc-Program-Auto-Splitter.csproj|c:\\users\\b.blunk\\onedrive - blum lmt\\github repositories (blum)\\60013_fanuc-program-auto-splitter_pcapp\\choose_filepath_form\\fanuc-program-auto-splitter.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{0F479D41-1969-4DFA-BFB3-EB18B6D51102}|Choose_FilePath_Form\\Fanuc-Program-Auto-Splitter.csproj|solutionrelative:choose_filepath_form\\fanuc-program-auto-splitter.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F479D41-1969-4DFA-BFB3-EB18B6D51102}|Choose_FilePath_Form\\Fanuc-Program-Auto-Splitter.csproj|c:\\users\\b.blunk\\onedrive - blum lmt\\github repositories (blum)\\60013_fanuc-program-auto-splitter_pcapp\\choose_filepath_form\\fanuc-program-auto-splitter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F479D41-1969-4DFA-BFB3-EB18B6D51102}|Choose_FilePath_Form\\Fanuc-Program-Auto-Splitter.csproj|solutionrelative:choose_filepath_form\\fanuc-program-auto-splitter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F479D41-1969-4DFA-BFB3-EB18B6D51102}|Choose_FilePath_Form\\Choose_FilePath_Form.csproj|C:\\Users\\b.blunk\\OneDrive - Blum LMT\\GitHub Repositories (Blum)\\60013_Fanuc-Program-Auto-Splitter_PCApp\\choose_filepath_form\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 193,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,14 +42,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Fanuc-Program-Auto-Splitter",
               "DocumentMoniker": "C:\\Users\\b.blunk\\OneDrive - Blum LMT\\GitHub Repositories (Blum)\\60013_Fanuc-Program-Auto-Splitter_PCApp\\Choose_FilePath_Form\\Fanuc-Program-Auto-Splitter.csproj",
               "RelativeDocumentMoniker": "Choose_FilePath_Form\\Fanuc-Program-Auto-Splitter.csproj",
               "ToolTip": "C:\\Users\\b.blunk\\OneDrive - Blum LMT\\GitHub Repositories (Blum)\\60013_Fanuc-Program-Auto-Splitter_PCApp\\Choose_FilePath_Form\\Fanuc-Program-Auto-Splitter.csproj",
               "RelativeToolTip": "Choose_FilePath_Form\\Fanuc-Program-Auto-Splitter.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-08T18:49:32.282Z"
+              "WhenOpened": "2024-11-08T18:49:32.282Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -77,13 +78,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Fanuc-Program-Auto-Splitter.csproj",
               "DocumentMoniker": "C:\\Users\\b.blunk\\OneDrive - Blum LMT\\GitHub Repositories (Blum)\\60013_Fanuc-Program-Auto-Splitter_PCApp\\Choose_FilePath_Form\\Fanuc-Program-Auto-Splitter.csproj",
               "RelativeDocumentMoniker": "Choose_FilePath_Form\\Fanuc-Program-Auto-Splitter.csproj",
               "ToolTip": "C:\\Users\\b.blunk\\OneDrive - Blum LMT\\GitHub Repositories (Blum)\\60013_Fanuc-Program-Auto-Splitter_PCApp\\Choose_FilePath_Form\\Fanuc-Program-Auto-Splitter.csproj",
               "RelativeToolTip": "Choose_FilePath_Form\\Fanuc-Program-Auto-Splitter.csproj",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvx0AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvw8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-11-08T16:34:32.63Z",
               "EditorCaption": ""
